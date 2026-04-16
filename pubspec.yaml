@@ -1,0 +1,15 @@
+name: demo_alternative_physics
+description: Floaty, low-gravity alternative physics implementation for the demo flappy bird game
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mss_core:
+    path: ../mss_core
+  demo_flappy_physics_def:
+    path: ../demo_flappybird/demo_flappy_physics_def
