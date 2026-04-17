@@ -18,6 +18,13 @@ as a drop-in replacement — users assembling an app pick whichever feel they pr
 
 Net effect: floatier, more forgiving game feel.
 
+## Try it
+
+Download the signed MSS client from
+[flutter-mss/mss_releases](https://github.com/flutter-mss/mss_releases/releases/latest),
+assemble `demo_my_flappybird` with `demo_alternative_physics` in place of
+`demo_simple_physics`.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
